@@ -1,0 +1,2 @@
+# Leoforfun
+Testing Leo language.
